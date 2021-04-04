@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AACE,aACE,qBAAsB,CACtB,UAAY,CAEZ,uBACE,qBAAwB,CACxB,UAAW","file":"main.454a482f.chunk.css","sourcesContent":[".App {\n  &__button {\n    background-color: grey;\n    color: white;\n\n    &--selected {\n      background-color: yellow;\n      color: blue;\n    }\n  }\n}\n"]}
